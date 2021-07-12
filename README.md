@@ -20,9 +20,13 @@ Loading paths for experimental data are relative (data should be kept in the cod
 --------------------------------------------Libraries & Test-----------------------------------------------------------
 
 The libraries required are: 
+
   -numpy
+  
   -matplotlib
+  
   -scipy (to interpolate generator data)
+  
   -pandas (to open the .csv file)
 
 The codes have been tested on Python 3.7. 
