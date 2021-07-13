@@ -1,5 +1,5 @@
 # electric-arc-simulation
-New method to simulate Andrea's electric arc model with a state-space formalism described in [cite publication].
+Method to simulate Andrea's electric arc model with a state-space formalism described in [cite publication][submitted to IEEE].
 
 This repository contains three arc simulation codes described as follows.
 
@@ -15,7 +15,9 @@ The purpose of this code is to show the explicit definition of the ABCD matrices
 
 ---------------------------------------------General Infos-------------------------------------------------------------
 
-'R_AC' and 'RL_DC' folders allow to reproduce the curves presented in [cite publication].
+'Simulation_code.zip': contains all the files.
+
+'R_AC' and 'RL_DC' folders allow to reproduce the curves presented in [cite publication][submitted to IEEE].
 
 Loading paths for experimental data are relative (data should be kept in the code repertory).
 
