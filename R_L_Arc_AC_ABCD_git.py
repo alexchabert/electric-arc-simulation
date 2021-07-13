@@ -66,3 +66,5 @@ plt.close()
 plt.plot(t,Vg)                      #Generator voltage
 plt.plot(t,np.array(X[0,:]))        #Current
 plt.plot(t,np.array(X[1,:]))        #Voltage
+
+plt.show()
