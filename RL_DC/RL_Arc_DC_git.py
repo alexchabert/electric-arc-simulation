@@ -231,3 +231,5 @@ fig3.subplots_adjust(hspace=0.3)
 width  = 3.487
 height = width / 1.618 *2
 fig3.set_size_inches(width, height)
+
+plt.show()
