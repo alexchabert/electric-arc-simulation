@@ -23,13 +23,13 @@ Loading paths for experimental data are relative (data should be kept in the cod
 
 The libraries required are: 
 
-  -numpy
+* numpy
   
-  -matplotlib
+* matplotlib
   
-  -scipy (to interpolate generator data)
+* scipy (to interpolate generator data)
   
-  -pandas (to open the .csv file)
+* pandas (to open the .csv file)
 
 'environment.yml' contains the Anaconda environment with these libraries.
 
