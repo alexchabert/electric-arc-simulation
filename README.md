@@ -15,7 +15,7 @@ This repository contains three arc simulation codes described as follows.
 
 ---------------------------------------------General Infos-------------------------------------------------------------
 
-'R_AC' and 'RL_DC' folders allow to reproduce the curves presented in [cite publication][submitted to IEEE].
+'R_AC' and 'RL_DC' folders contain the codes to reproduce the curves presented in [cite publication][submitted to IEEE].
 
 Loading paths for experimental data are relative (data should be kept in the code repertory).
 
