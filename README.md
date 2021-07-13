@@ -15,8 +15,6 @@ The purpose of this code is to show the explicit definition of the ABCD matrices
 
 ---------------------------------------------General Infos-------------------------------------------------------------
 
-'Simulation_code.zip': contains all the files.
-
 'R_AC' and 'RL_DC' folders allow to reproduce the curves presented in [cite publication][submitted to IEEE].
 
 Loading paths for experimental data are relative (data should be kept in the code repertory).
