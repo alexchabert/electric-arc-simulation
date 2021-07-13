@@ -5,12 +5,12 @@ This repository contains three arc simulation codes described as follows.
 
 --------------------------------------------Data Description-----------------------------------------------------------
 
-'R_Arc_AC_git': Arc simulation made to fit an experimental arc in series with an R load under an AC generator.
+*'R_Arc_AC_git': Arc simulation made to fit an experimental arc in series with an R load under an AC generator.
 
-'RL_Arc_DC_git': Arc simulation made to fit an experimental arc in series with an RL load under a DC generator. 
+*'RL_Arc_DC_git': Arc simulation made to fit an experimental arc in series with an RL load under a DC generator. 
 Ignition is done by contact opening.
 
-'RL_Arc_ABCD_git': Simulation of an arc in series with an RL load under an AC generator. 
+*'RL_Arc_ABCD_git': Simulation of an arc in series with an RL load under an AC generator. 
 The purpose of this code is to show the explicit definition of the ABCD matrices.
 
 ---------------------------------------------General Infos-------------------------------------------------------------
