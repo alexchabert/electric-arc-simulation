@@ -31,5 +31,9 @@ The libraries required are:
   
   -pandas (to open the .csv file)
 
+'environment.yml' contains the Anaconda environment with these libraries.
+
 The codes have been tested on Python 3.7. 
+
+
   
