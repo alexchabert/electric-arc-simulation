@@ -122,7 +122,7 @@ print('error power on current =',errPI)
 #Parameters of the plots
 #--------------------------------------------------------------
 plt.close('all')
-plt.rc('font', family='serif', serif='Times')
+plt.rc('font', family='DejaVu Sans', serif='Times')
 plt.rc('text', usetex=False)
 plt.rc('xtick', labelsize=10)
 plt.rc('ytick', labelsize=10)
