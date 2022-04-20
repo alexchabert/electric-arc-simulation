@@ -1,5 +1,5 @@
 # electric-arc-simulation
-Method to simulate Andrea's electric arc model with a state-space formalism described in [cite publication][submitted to IEEE].
+Method to simulate Andrea's electric arc model with a state-space formalism described in "State-Space Simulation of Electric-Arc Faults" https://ieeexplore.ieee.org/document/9565395 .
 
 This repository contains three arc simulation codes described as follows.
 
@@ -15,7 +15,7 @@ This repository contains three arc simulation codes described as follows.
 
 ---------------------------------------------General Infos-------------------------------------------------------------
 
-'R_AC' and 'RL_DC' folders contain the codes to reproduce the curves presented in [cite publication][submitted to IEEE].
+'R_AC' and 'RL_DC' folders contain the codes to reproduce the curves presented in "State-Space Simulation of Electric-Arc Faults" https://ieeexplore.ieee.org/document/9565395.
 
 Loading paths for experimental data are relative (data should be kept in the code repertory).
 
